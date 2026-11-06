@@ -1,6 +1,6 @@
 # Auctioneer images
 
-Artwork served to the [Auctioneer](https://github.com/Dubshott/pokemonauctiongame) Android app.
+Artwork served to the [Auctioneer](https://github.com/abhijay-deevi/pokemonauctiongame) Android app.
 Kept in its own repository so the game repository stays small.
 
 ## yugioh/
